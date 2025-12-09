@@ -1,0 +1,33 @@
+# Stack
+.stack-work/
+
+# Cabal / GHC
+dist/
+dist-newstyle/
+*.o
+*.hi
+*.chi
+*.dyn_o
+*.dyn_hi
+
+# Cabal project lokale Dateien
+cabal.project.local
+cabal.project.local~
+
+# Profiling / Laufzeitdaten
+*.prof
+*.hp
+*.eventlog
+
+# Test/coverage
+.hpc/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sonstiger Kram
+.DS_Store
+Thumbs.db
