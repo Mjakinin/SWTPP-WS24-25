@@ -1,12 +1,1 @@
-# Test Commands:
-- Run all tests: stack test
-- Run validation tests: stack test catapult:validate
-- Run unit tests: stack test catapult:units
-- Run grading tests: stack test catapult:grading
-- Run tests with coverage: stack test --coverage ...
-
-# Building Commands
-- stack build
-- stack clean
-# SWTPP-WS24-25
-# SWTPP-WS24-25
+<img width="678" height="678" alt="image" src="https://github.com/user-attachments/assets/071274e4-9f01-4e16-a0b7-40d429d27ca1" />
